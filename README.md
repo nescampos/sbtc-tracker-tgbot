@@ -6,7 +6,7 @@ This is a tracker built with [Hiro Chainhooks](https://docs.hiro.so/chainhook) w
 
 ## How does it work?
 
-Check this video.
+[Check this video](https://www.youtube.com/watch?v=g5J99WvsMY8).
 
 ## Steps to implement
 
