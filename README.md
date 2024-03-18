@@ -24,7 +24,7 @@ Check this video.
    - Asset identifier: ST1R1061ZT6KPJXQ7PAXPFB6ZAZ6ZWW28G8HXK9G5.asset-3::sbtc
    - Actions: check all.
    - Action: http_post
-   - URL: "The URL you got from Replit", adding at the end "/verify".
+   - URL: "The URL you got from Replit", adding at the end "/notify".
    - Start Block: 131527
 9. Test your new bot in Telegram.
 
